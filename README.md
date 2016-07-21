@@ -12,12 +12,13 @@
  
  ## Steps performed
  
-  In order to complete this project you must do the following:
+ In order to complete this project you must do the following:
 
   1. Download the data source and put into a folder on your local drive. The folder should be named ```UCI HAR Dataset```.
   2. Put ```run_analysis.R``` in the ```UCI HAR Dataset``` folder. then set it as your working directory using ```setwd("./Data Science Specialization/Getting and Cleaning Data/Final Assignment/UCI HAR Dataset/")```.
   3. Run ```source("run_analysis.R")``` to obtain the tidy data.
+ 
  +
- +## NOTES
+ + ## NOTES
  +
  + To run```run_analysis.R``` you need the ```reshape2``` package and the ```data.table``` package. The script will automatically look if + those packages are present on your pc and, if they aren't, it will install them and load them. 
