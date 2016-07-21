@@ -1,6 +1,6 @@
- # Getting and Cleaning Data
+## Getting and Cleaning Data
  
- ## Course Project
+## Course Project
  
  The main objective of the final assignment of the course "Getting and Cleaning Data" is to create a script called ```run_analysis.R``` which performs the following 5 tasks:
  
