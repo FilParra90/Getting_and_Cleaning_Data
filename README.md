@@ -19,4 +19,4 @@ In order to complete this project you must do the following:
 3. Run ```source("run_analysis.R")``` to obtain the tidy data.
  
 ## NOTES
-To run```run_analysis.R``` you need the ```reshape2``` package and the ```data.table``` package. The script will automatically look if + those packages are present on your pc and, if they aren't, it will install them and load them. 
+To run```run_analysis.R``` you need the ```reshape2``` package and the ```data.table``` package. The script will automatically look if  those packages are present on your pc and, if they aren't, it will install them and load them. 
